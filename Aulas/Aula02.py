@@ -16,4 +16,3 @@ print(False)
 
 # Tipo String
 print("Python")
-print(Python)
